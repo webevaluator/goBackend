@@ -16,6 +16,7 @@ type URL struct {
 }
 
 func Router() {
+	gin.SetMode(gin.ReleaseMode)
 	router := gin.Default()
 	router.Use(cors.Default())
 	router.GET("/status", func(c *gin.Context) {
