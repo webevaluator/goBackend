@@ -1,4 +1,4 @@
-module github.com/webevaluator/goBackend
+module github.com/webevaluator/gobackend
 
 go 1.17
 

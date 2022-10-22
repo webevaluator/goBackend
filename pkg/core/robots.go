@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/webevaluator/goBackend/pkg/log"
+	"github.com/webevaluator/gobackend/pkg/log"
 
 	"github.com/gocolly/colly/v2"
 )

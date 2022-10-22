@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/webevaluator/goBackend/pkg/log"
-	"github.com/webevaluator/goBackend/pkg/stringset"
+	"github.com/webevaluator/gobackend/pkg/log"
+	"github.com/webevaluator/gobackend/pkg/stringset"
 	"github.com/gocolly/colly/v2"
 	"github.com/gocolly/colly/v2/extensions"
 )

@@ -3,10 +3,10 @@ package router
 import (
 	"os"
 	
-	"github.com/webevaluator/goBackend/pkg/invoke"
-	"github.com/webevaluator/goBackend/pkg/log"
-	"github.com/webevaluator/goBackend/pkg/sendRequest"
-	"github.com/webevaluator/goBackend/pkg/ssl"
+	"github.com/webevaluator/gobackend/pkg/invoke"
+	"github.com/webevaluator/gobackend/pkg/log"
+	"github.com/webevaluator/gobackend/pkg/sendRequest"
+	"github.com/webevaluator/gobackend/pkg/ssl"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )

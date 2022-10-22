@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"net/url"
 
-	"github.com/webevaluator/goBackend/pkg/log"
+	"github.com/webevaluator/gobackend/pkg/log"
 )
 
 type SSLInfo struct {

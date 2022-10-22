@@ -1,6 +1,6 @@
 package main
 
-import "github.com/webevaluator/goBackend/pkg/router"
+import "github.com/webevaluator/gobackend/pkg/router"
 
 func main() {
 	router.Router()

@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/webevaluator/goBackend/pkg/log"
+	"github.com/webevaluator/gobackend/pkg/log"
 	"github.com/gin-gonic/gin"
 )
 

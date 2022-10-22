@@ -6,8 +6,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/webevaluator/goBackend/pkg/core"
-	"github.com/webevaluator/goBackend/pkg/log"
+	"github.com/webevaluator/gobackend/pkg/core"
+	"github.com/webevaluator/gobackend/pkg/log"
 )
 
 const (
